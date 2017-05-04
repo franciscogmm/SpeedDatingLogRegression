@@ -2,7 +2,10 @@
 ## Love in the Fastlane – Predicting Success in Speed Dating using Logistic Regression and R
 Conducted statistical analysis and logistic regression modelling to predict match success in speed dating events
 
-This was submitted as a project for my Statistical Methods and Computation class in my MS Business Analytics program. The original title is “Love in the Fastlane: Success in Speed Dating”. My other teammate is Ruoxuan Gong. This project was done for educational purposes only. Click the photos to enlarge.
+This was submitted as a project for my Statistical Methods and Computation class in my MS Business Analytics program. The original title is “Love in the Fastlane: Success in Speed Dating”. My other teammate is Ruoxuan Gong. This project was done for educational purposes only. 
+
+Also, I'm only uploading my code.
+
 
 ## Problem Statement
 The purpose of this study is to determine if speed dating outcomes can be predicted, and if yes, what are the most important factors that would help speed dating participants successfully match with each other
